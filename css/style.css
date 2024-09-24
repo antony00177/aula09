@@ -1,0 +1,78 @@
+.Listamento1 
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    list-style-type: none;
+    justify-content: space-between;
+}
+
+.item
+{
+    text-decoration: none;
+    margin: 5px 5px 5px 5px ;
+    background-color: white;
+    padding: 15px;
+}
+
+.item:hover 
+{
+    background-color: red;
+    color: azure;
+}
+
+
+
+.Listamento2 li a 
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    list-style-type: none;
+    text-decoration:none;
+    text-decoration-color: white;
+}
+
+.item2 
+{
+    text-decoration: none;
+    margin: 1px 1px 1px 1px ;
+    background-color: grey;
+    padding: 15px;
+}
+
+.item2:hover 
+{
+    background-color: #3299CC;
+    color: azure;
+}
+
+
+.Listamento3
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    list-style-type: none;
+    text-decoration:none;
+    text-decoration-color: white;
+    
+}
+
+.Listamento3 li{
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.item3 {
+    text-decoration: none;
+    background-color: white;
+    padding: 15px;
+   margin: 10px 10px 10px 10px;
+}
+
+
+.item3:hover
+{
+    color: #ff1493;
+    background-color: azure;
+}
